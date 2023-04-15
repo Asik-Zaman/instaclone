@@ -1,0 +1,1 @@
+const webScreenMax = 600;
